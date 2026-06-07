@@ -1,0 +1,6 @@
+{
+  "build": 1,
+  "version": "2026.06.07",
+  "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
+  "notes": "Initial OTA-capable build"
+}
