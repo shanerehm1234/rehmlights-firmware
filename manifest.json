@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "2026.06.07.2",
+  "build": 4,
+  "version": "2026.06.07.4",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "OTA self-test: build 2 (wireless update from build 1)"
+  "notes": "Build 4: streaming-mode SDIO + throttled OTA download + app quiesce (fixes the 2MB download crash)"
 }
