@@ -1,6 +1,6 @@
 {
-  "build": 6,
-  "version": "2026.06.07.6",
+  "build": 8,
+  "version": "2026.06.07.8",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 6: OTA download survives on internal-RAM stack with throttle + app quiesce; LWIP socket pool 16"
+  "notes": "Build 8: quiet serial + perf overlay off (cyan-flash fix) + 16-socket pool"
 }
