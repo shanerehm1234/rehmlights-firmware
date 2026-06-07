@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "version": "2026.06.07.8",
+  "build": 11,
+  "version": "2026.06.07.11",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 8: quiet serial + perf overlay off (cyan-flash fix) + 16-socket pool"
+  "notes": "Build 11: OTA crash fix - 8KB TCP window + 64KB DMA reserve (smaller streaming alloc); themes moved to DISPLAY column"
 }
