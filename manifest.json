@@ -1,6 +1,6 @@
 {
-  "build": 18,
-  "version": "2026.06.07.18",
+  "build": 19,
+  "version": "2026.06.08.19",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 18: OTA round-trip test for both units"
+  "notes": "Build 19: WANDER reworked - smooth seamless organic drift (random Fourier loop)"
 }
