@@ -1,6 +1,6 @@
 {
-  "build": 11,
-  "version": "2026.06.07.11",
+  "build": 17,
+  "version": "2026.06.07.17",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 11: OTA crash fix - 8KB TCP window + 64KB DMA reserve (smaller streaming alloc); themes moved to DISPLAY column"
+  "notes": "Build 17: two-phase OTA - clean progress bar during download (to PSRAM), brief dark install"
 }
