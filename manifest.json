@@ -1,6 +1,6 @@
 {
-  "build": 20,
-  "version": "2026.06.08.20",
+  "build": 21,
+  "version": "2026.06.08.21",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 20: external trigger button (GPIO36) - blackout / next scene / next pattern"
+  "notes": "Build 21: trigger button on the correct pin (J3 pin 36 = GPIO51)"
 }
