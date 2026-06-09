@@ -1,6 +1,6 @@
 {
-  "build": 19,
-  "version": "2026.06.08.19",
+  "build": 20,
+  "version": "2026.06.08.20",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 19: WANDER reworked - smooth seamless organic drift (random Fourier loop)"
+  "notes": "Build 20: external trigger button (GPIO36) - blackout / next scene / next pattern"
 }
