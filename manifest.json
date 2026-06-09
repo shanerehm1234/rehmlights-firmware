@@ -1,6 +1,6 @@
 {
-  "build": 22,
-  "version": "2026.06.08.22",
+  "build": 23,
+  "version": "2026.06.08.23",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 22: web page - live Vibe-Link status (names), trigger setting, build # + update buttons"
+  "notes": "Build 23: web Vibe-Link/trigger/firmware status + blackout sync fix"
 }
