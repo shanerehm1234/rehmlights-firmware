@@ -1,6 +1,6 @@
 {
-  "build": 33,
-  "version": "2026.06.09.33",
+  "build": 34,
+  "version": "2026.06.09.34",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fixes OTA update check (manifest size)"
+  "notes": "Display speed: direct render mode"
 }
