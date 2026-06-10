@@ -1,6 +1,6 @@
 {
-  "build": 31,
-  "version": "2026.06.09.31",
+  "build": 32,
+  "version": "2026.06.09.32",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 31: rebuilt the lock keypad on a rigid grid (fixes dead 2/5/8/0 column), web-rescue auto-unlock when the screen lock is disabled remotely, and a temporary key-press serial log to diagnose touch."
+  "notes": "Build 32: big render-speed fix. The preview path line was being redrawn every single frame even when static, and the moving dots/glows kept re-blitting off-tab. Now the path line only redraws when the pattern/speed/range changes, dots only move when they actually move, and ALL preview drawing is skipped when you're not on OPERATE (lights keep running). Should make OPERATE + COLOR much snappier."
 }
