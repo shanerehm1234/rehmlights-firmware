@@ -1,6 +1,6 @@
 {
-  "build": 30,
-  "version": "2026.06.09.30",
+  "build": 31,
+  "version": "2026.06.09.31",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 30: faster device unlock (lock is now its own screen, not a top-layer composite), bigger keypad, operator PIN unlocks the touchscreen even with roles off, and the web Install button now reports the real result instead of always saying 'installing'."
+  "notes": "Build 31: rebuilt the lock keypad on a rigid grid (fixes dead 2/5/8/0 column), web-rescue auto-unlock when the screen lock is disabled remotely, and a temporary key-press serial log to diagnose touch."
 }
