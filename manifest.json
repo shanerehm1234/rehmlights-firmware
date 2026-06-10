@@ -1,6 +1,6 @@
 {
-  "build": 28,
-  "version": "2026.06.09.28",
+  "build": 29,
+  "version": "2026.06.09.29",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 28: fix screen-lock slowdown/crash (delete overlay vs hide) + bigger keypad"
+  "notes": "Build 29: DIAGNOSTIC - perf log on (chasing the post-lock slowdown)"
 }
