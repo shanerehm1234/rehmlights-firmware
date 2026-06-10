@@ -1,6 +1,6 @@
 {
-  "build": 27,
-  "version": "2026.06.09.27",
+  "build": 28,
+  "version": "2026.06.09.28",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 27: OTA install disconnects radio first (fixes follower install crash)"
+  "notes": "Build 28: fix screen-lock slowdown/crash (delete overlay vs hide) + bigger keypad"
 }
