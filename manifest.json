@@ -1,6 +1,6 @@
 {
-  "build": 24,
-  "version": "2026.06.09.24",
+  "build": 25,
+  "version": "2026.06.09.25",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 24: web security - optional PIN lock + Admin/Operator roles (session cookies, server-enforced)"
+  "notes": "Build 25: OTA install pacing fix (sdio_push_data_to_queue) + web security"
 }
