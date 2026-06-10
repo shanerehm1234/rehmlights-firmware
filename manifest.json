@@ -1,6 +1,6 @@
 {
-  "build": 25,
-  "version": "2026.06.09.25",
+  "build": 26,
+  "version": "2026.06.09.26",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 25: OTA install pacing fix (sdio_push_data_to_queue) + web security"
+  "notes": "Build 26: screen lock (PIN keypad + inactivity timeout) + operator logout button"
 }
