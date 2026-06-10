@@ -1,6 +1,6 @@
 {
-  "build": 35,
-  "version": "2026.06.10.35",
+  "build": 36,
+  "version": "2026.06.10.36",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Display: direct render mode (faster)"
+  "notes": "Diagnostic: pipeline instrumentation"
 }
