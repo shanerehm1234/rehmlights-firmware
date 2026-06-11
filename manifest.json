@@ -1,6 +1,6 @@
 {
-  "build": 41,
-  "version": "2026.06.10.41",
+  "build": 42,
+  "version": "2026.06.10.42",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Skip redundant library-index flash write"
+  "notes": "Device role gating (operator restrictions)"
 }
