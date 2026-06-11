@@ -1,6 +1,6 @@
 {
-  "build": 49,
-  "version": "2026.06.10.49",
+  "build": 50,
+  "version": "2026.06.10.50",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Theme hard-cut; light mode-button pump; scene group swatches"
+  "notes": "Scene cards: show all 4 group colors prominently"
 }
