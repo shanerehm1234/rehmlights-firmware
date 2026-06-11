@@ -1,6 +1,6 @@
 {
-  "build": 43,
-  "version": "2026.06.10.43",
+  "build": 44,
+  "version": "2026.06.10.44",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Groups (A-D) + operator role fix"
+  "notes": "Fix lock-screen unlock strobe"
 }
