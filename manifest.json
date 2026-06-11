@@ -1,6 +1,6 @@
 {
-  "build": 36,
-  "version": "2026.06.10.36",
+  "build": 37,
+  "version": "2026.06.10.37",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Diagnostic: pipeline instrumentation"
+  "notes": "Boot splash on its own screen (no strobe)"
 }
