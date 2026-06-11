@@ -1,6 +1,6 @@
 {
-  "build": 47,
-  "version": "2026.06.10.47",
+  "build": 48,
+  "version": "2026.06.10.48",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Group colors persist; lighter header pump"
+  "notes": "Groups bar moved off pattern column; mode-stick fix"
 }
