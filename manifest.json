@@ -1,6 +1,6 @@
 {
-  "build": 46,
-  "version": "2026.06.10.46",
+  "build": 47,
+  "version": "2026.06.10.47",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Diag: groups persist logging; header strobe fix; Vibrary rename"
+  "notes": "Group colors persist; lighter header pump"
 }
