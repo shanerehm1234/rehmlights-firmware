@@ -1,6 +1,6 @@
 {
-  "build": 37,
-  "version": "2026.06.10.37",
+  "build": 38,
+  "version": "2026.06.10.38",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Boot splash on its own screen (no strobe)"
+  "notes": "Clear framebuffers at boot (kills white splash strobe)"
 }
