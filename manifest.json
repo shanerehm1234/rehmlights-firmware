@@ -1,6 +1,6 @@
 {
-  "build": 39,
-  "version": "2026.06.10.39",
+  "build": 40,
+  "version": "2026.06.10.40",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Backlight stays dark until splash is painted"
+  "notes": "Splash hand-off: repaint both framebuffers (no strobe)"
 }
