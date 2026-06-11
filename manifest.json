@@ -1,6 +1,6 @@
 {
-  "build": 40,
-  "version": "2026.06.10.40",
+  "build": 41,
+  "version": "2026.06.10.41",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Splash hand-off: repaint both framebuffers (no strobe)"
+  "notes": "Skip redundant library-index flash write"
 }
