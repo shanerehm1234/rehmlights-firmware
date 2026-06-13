@@ -1,6 +1,6 @@
 {
-  "build": 50,
-  "version": "2026.06.10.50",
+  "build": 51,
+  "version": "2026.06.13.51",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Scene cards: show all 4 group colors prominently"
+  "notes": "RANGE=0 freeze (manual aim); fix em-dash glyph boxes"
 }
