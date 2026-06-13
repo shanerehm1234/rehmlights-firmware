@@ -1,6 +1,6 @@
 {
-  "build": 52,
-  "version": "2026.06.13.52",
+  "build": 53,
+  "version": "2026.06.13.53",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Patch reorder (up/down); editor scroll-flash fix"
+  "notes": "Bigger PATCH card + bigger row buttons"
 }
