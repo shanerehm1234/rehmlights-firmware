@@ -1,6 +1,6 @@
 {
-  "build": 67,
-  "version": "2026.06.14.67",
+  "build": 68,
+  "version": "2026.06.14.68",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Squash phantom scene-save popup (in-place highlight); web swatches as rounded rects"
+  "notes": "Defer scene-save flash (phantom popup); web scene group chips+swatches; tap diag"
 }
