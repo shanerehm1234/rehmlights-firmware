@@ -1,6 +1,6 @@
 {
-  "build": 54,
-  "version": "2026.06.13.54",
+  "build": 55,
+  "version": "2026.06.14.55",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Diagnostic: groups per-fixture drive logging"
+  "notes": "Groups: tapping a group now enables routing"
 }
