@@ -1,6 +1,6 @@
 {
-  "build": 69,
-  "version": "2026.06.14.69",
+  "build": 70,
+  "version": "2026.06.14.70",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Confirm modal scrim now blocks tap-through (scene popup cascade); remove diag"
+  "notes": "Busking-safe scenes: tap empty slot = no-op; HOLD empty = save"
 }
