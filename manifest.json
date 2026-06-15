@@ -1,6 +1,6 @@
 {
-  "build": 64,
-  "version": "2026.06.14.64",
+  "build": 65,
+  "version": "2026.06.14.65",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "16 fixtures; Vibe-Link group sync; web scene swatches + add/remove fixtures"
+  "notes": "Fix Vibe-Link: v4 group packet exceeded payload cap"
 }
