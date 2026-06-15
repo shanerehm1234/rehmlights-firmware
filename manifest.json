@@ -1,6 +1,6 @@
 {
-  "build": 55,
-  "version": "2026.06.14.55",
+  "build": 56,
+  "version": "2026.06.14.56",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Groups: tapping a group now enables routing"
+  "notes": "Scene cards: per-group primary+secondary swatches"
 }
