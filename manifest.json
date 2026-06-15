@@ -1,6 +1,6 @@
 {
-  "build": 59,
-  "version": "2026.06.14.59",
+  "build": 60,
+  "version": "2026.06.14.60",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Per-group beam/strobe; group selector on COLOR/BEAM"
+  "notes": "Dim A/B/C/D group chips when groups disabled"
 }
