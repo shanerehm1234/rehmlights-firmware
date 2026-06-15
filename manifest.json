@@ -1,6 +1,6 @@
 {
-  "build": 70,
-  "version": "2026.06.14.70",
+  "build": 71,
+  "version": "2026.06.14.71",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Busking-safe scenes: tap empty slot = no-op; HOLD empty = save"
+  "notes": "Fix scene group swatches gone after reboot; re-arm scenedbg diagnostics"
 }
