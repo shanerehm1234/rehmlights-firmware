@@ -1,6 +1,6 @@
 {
-  "build": 68,
-  "version": "2026.06.14.68",
+  "build": 69,
+  "version": "2026.06.14.69",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Defer scene-save flash (phantom popup); web scene group chips+swatches; tap diag"
+  "notes": "Confirm modal scrim now blocks tap-through (scene popup cascade); remove diag"
 }
