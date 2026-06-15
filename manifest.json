@@ -1,6 +1,6 @@
 {
-  "build": 60,
-  "version": "2026.06.14.60",
+  "build": 61,
+  "version": "2026.06.14.61",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Dim A/B/C/D group chips when groups disabled"
+  "notes": "Scenes: hold-to-overwrite + X delete button"
 }
