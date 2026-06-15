@@ -1,6 +1,6 @@
 {
-  "build": 62,
-  "version": "2026.06.14.62",
+  "build": 64,
+  "version": "2026.06.14.64",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Web UI groups parity (selector + per-fixture assign)"
+  "notes": "16 fixtures; Vibe-Link group sync; web scene swatches + add/remove fixtures"
 }
