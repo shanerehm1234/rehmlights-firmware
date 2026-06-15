@@ -1,6 +1,6 @@
 {
-  "build": 58,
-  "version": "2026.06.14.58",
+  "build": 59,
+  "version": "2026.06.14.59",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Group colors A/B/C/D; patch group-btn left; scroll hint"
+  "notes": "Per-group beam/strobe; group selector on COLOR/BEAM"
 }
