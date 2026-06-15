@@ -1,6 +1,6 @@
 {
-  "build": 61,
-  "version": "2026.06.14.61",
+  "build": 62,
+  "version": "2026.06.14.62",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Scenes: hold-to-overwrite + X delete button"
+  "notes": "Web UI groups parity (selector + per-fixture assign)"
 }
