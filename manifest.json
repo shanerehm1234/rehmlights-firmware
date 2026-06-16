@@ -1,6 +1,6 @@
 {
-  "build": 72,
-  "version": "2026.06.15.72",
+  "build": 73,
+  "version": "2026.06.15.73",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "FIX scene popup: repaint pump on confirm-modal open/close (DOUBLE_DIRECT ghost)"
+  "notes": "Scene dialog: instant cancel + lighter repaint pumps; fix highlight ghost"
 }
