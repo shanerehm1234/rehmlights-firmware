@@ -1,6 +1,6 @@
 {
-  "build": 71,
-  "version": "2026.06.14.71",
+  "build": 72,
+  "version": "2026.06.15.72",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fix scene group swatches gone after reboot; re-arm scenedbg diagnostics"
+  "notes": "FIX scene popup: repaint pump on confirm-modal open/close (DOUBLE_DIRECT ghost)"
 }
