@@ -1,6 +1,6 @@
 {
-  "build": 73,
-  "version": "2026.06.15.73",
+  "build": 74,
+  "version": "2026.06.16.74",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Scene dialog: instant cancel + lighter repaint pumps; fix highlight ghost"
+  "notes": "Busking speed: per-cell highlight pump + debounced scene save"
 }
