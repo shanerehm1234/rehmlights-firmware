@@ -1,6 +1,6 @@
 {
-  "build": 82,
-  "version": "2026.06.28.82",
+  "build": 83,
+  "version": "2026.06.28.83",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fix +ADD needing 2 taps (DOUBLE_DIRECT framebuffer sync), speed up group/address taps (in-place update, no full grid rebuild)"
+  "notes": "Targeted (not full-screen) repaint pumps in Patch Manager: fixes group-button ghosting, much faster with 12+ fixtures"
 }
