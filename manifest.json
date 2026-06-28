@@ -1,6 +1,6 @@
 {
-  "build": 81,
-  "version": "2026.06.28.81",
+  "build": 82,
+  "version": "2026.06.28.82",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Address dialog gets a card/border + Cancel button; drag handle gives instant press feedback + visible grab strip"
+  "notes": "Fix +ADD needing 2 taps (DOUBLE_DIRECT framebuffer sync), speed up group/address taps (in-place update, no full grid rebuild)"
 }
