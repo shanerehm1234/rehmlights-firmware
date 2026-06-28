@@ -1,6 +1,6 @@
 {
-  "build": 77,
-  "version": "2026.06.17.77",
+  "build": 78,
+  "version": "2026.06.28.78",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Patch Manager: full-screen tile grid, tap-to-reorder, per-fixture addressing, broker QR"
+  "notes": "Patch Manager: drag-and-drop reorder, fix em-dash glyphs, cleaner MANAGE PATCH button"
 }
