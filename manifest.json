@@ -1,6 +1,6 @@
 {
-  "build": 78,
-  "version": "2026.06.28.78",
+  "build": 79,
+  "version": "2026.06.28.79",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Patch Manager: drag-and-drop reorder, fix em-dash glyphs, cleaner MANAGE PATCH button"
+  "notes": "Patch Manager: responsive add/delete (debounced save), grab-anywhere drag, delete confirm, bigger hint"
 }
