@@ -1,6 +1,6 @@
 {
-  "build": 79,
-  "version": "2026.06.28.79",
+  "build": 80,
+  "version": "2026.06.28.80",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Patch Manager: responsive add/delete (debounced save), grab-anywhere drag, delete confirm, bigger hint"
+  "notes": "Patch Manager: real responsive buttons + handle-only drag, remove duplicate Add/Clear row"
 }
