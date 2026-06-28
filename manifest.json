@@ -1,6 +1,6 @@
 {
-  "build": 76,
-  "version": "2026.06.17.76",
+  "build": 77,
+  "version": "2026.06.17.77",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Groups: per-group phase fan count + BEAM page shows all fixtures' features"
+  "notes": "Patch Manager: full-screen tile grid, tap-to-reorder, per-fixture addressing, broker QR"
 }
