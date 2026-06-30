@@ -1,6 +1,6 @@
 {
-  "build": 84,
-  "version": "2026.06.28.84",
+  "build": 85,
+  "version": "2026.06.29.85",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fix use-after-free: closing Patch Manager / rebuilding grid right after a tap could leave a repaint timer pointing at freed memory"
+  "notes": "Fix: scene recall was silently reverting fixture group assignments (C->B). Faster scene recall during busking (removed duplicate widget resync)."
 }
