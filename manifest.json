@@ -1,6 +1,6 @@
 {
-  "build": 94,
-  "version": "2026.07.01.94",
+  "build": 95,
+  "version": "2026.07.01.95",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Diagnostic 94: raw indev touch logging (PRESS/RELEASE + coords + ms) to confirm touch reception vs latency"
+  "notes": "THE FIX: scene card tap dead-zones. Scrollable child containers swallowed the press everywhere but the title. Clear SCROLLABLE -> tap anywhere works. Diagnostics off."
 }
