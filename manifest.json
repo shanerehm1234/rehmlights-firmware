@@ -1,6 +1,6 @@
 {
-  "build": 92,
-  "version": "2026.06.30.92",
+  "build": 93,
+  "version": "2026.06.30.93",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "FIX v2: active highlight is now a 40x40 badge, not a full-card border (was redrawing ~full screen per tap). Plus debounce."
+  "notes": "FIX v3: defer the ~25 off-tab display-widget syncs on scene recall (resync on tab open). Build# now in diag log."
 }
