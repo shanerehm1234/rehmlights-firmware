@@ -1,6 +1,6 @@
 {
-  "build": 85,
-  "version": "2026.06.29.85",
+  "build": 86,
+  "version": "2026.06.30.86",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fix: scene recall was silently reverting fixture group assignments (C->B). Faster scene recall during busking (removed duplicate widget resync)."
+  "notes": "Fix scene 5 double-tap: cache groups blob at boot, zero NVS I/O in scene recall hot path"
 }
