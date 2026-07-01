@@ -1,6 +1,6 @@
 {
-  "build": 91,
-  "version": "2026.06.30.91",
+  "build": 92,
+  "version": "2026.06.30.92",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "REAL FIX: debounce scene active-border redraw off the per-tap path (was the only on-screen render, stacking vsync cycles that starved touch)"
+  "notes": "FIX v2: active highlight is now a 40x40 badge, not a full-card border (was redrawing ~full screen per tap). Plus debounce."
 }
