@@ -1,6 +1,6 @@
 {
-  "build": 89,
-  "version": "2026.06.30.89",
+  "build": 90,
+  "version": "2026.06.30.90",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Diagnostic 89: add LVGL object-tree count (the touch hit-test cost) to the 5s log"
+  "notes": "FIX: remove scene-card shadow blur (was 50-76ms software renders blocking the touch thread). Diagnostics still on to confirm."
 }
