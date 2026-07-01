@@ -1,6 +1,6 @@
 {
-  "build": 95,
-  "version": "2026.07.01.95",
+  "build": 96,
+  "version": "2026.07.01.96",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "THE FIX: scene card tap dead-zones. Scrollable child containers swallowed the press everywhere but the title. Clear SCROLLABLE -> tap anywhere works. Diagnostics off."
+  "notes": "Scenes 5-6 intermittent retries: bottom-row cards lost the tap to the scrollable tab. Clear SCROLLABLE on tab+cells."
 }
