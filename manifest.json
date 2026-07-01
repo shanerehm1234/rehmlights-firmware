@@ -1,6 +1,6 @@
 {
-  "build": 88,
-  "version": "2026.06.30.88",
+  "build": 89,
+  "version": "2026.06.30.89",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Diagnostic build: 5s heap/LVGL/CPU trend log to find the busking lag accumulator"
+  "notes": "Diagnostic 89: add LVGL object-tree count (the touch hit-test cost) to the 5s log"
 }
