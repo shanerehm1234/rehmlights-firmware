@@ -1,6 +1,6 @@
 {
-  "build": 93,
-  "version": "2026.06.30.93",
+  "build": 94,
+  "version": "2026.07.01.94",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "FIX v3: defer the ~25 off-tab display-widget syncs on scene recall (resync on tab open). Build# now in diag log."
+  "notes": "Diagnostic 94: raw indev touch logging (PRESS/RELEASE + coords + ms) to confirm touch reception vs latency"
 }
