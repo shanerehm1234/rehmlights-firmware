@@ -1,6 +1,6 @@
 {
-  "build": 90,
-  "version": "2026.06.30.90",
+  "build": 91,
+  "version": "2026.06.30.91",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "FIX: remove scene-card shadow blur (was 50-76ms software renders blocking the touch thread). Diagnostics still on to confirm."
+  "notes": "REAL FIX: debounce scene active-border redraw off the per-tap path (was the only on-screen render, stacking vsync cycles that starved touch)"
 }
