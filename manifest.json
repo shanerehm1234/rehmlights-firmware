@@ -1,6 +1,6 @@
 {
-  "build": 86,
-  "version": "2026.06.30.86",
+  "build": 87,
+  "version": "2026.06.30.87",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fix scene 5 double-tap: cache groups blob at boot, zero NVS I/O in scene recall hot path"
+  "notes": "Scene scrub: stop rebuilding the 16-row patch list on every scene recall; dirty-check flash saves"
 }
