@@ -1,6 +1,6 @@
 {
-  "build": 87,
-  "version": "2026.06.30.87",
+  "build": 88,
+  "version": "2026.06.30.88",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Scene scrub: stop rebuilding the 16-row patch list on every scene recall; dirty-check flash saves"
+  "notes": "Diagnostic build: 5s heap/LVGL/CPU trend log to find the busking lag accumulator"
 }
