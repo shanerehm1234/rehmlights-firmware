@@ -1,6 +1,6 @@
 {
-  "build": 97,
-  "version": "2026.07.01.97",
+  "build": 98,
+  "version": "2026.07.01.98",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "THE actual fix: lv_obj_create defaults to CLICKABLE, so swatches/chips ate the press. Clear CLICKABLE on all card children -> tap anywhere works."
+  "notes": "Restore the pretty: active-card glow + border + outline + shadows, debounced so busking stays smooth"
 }
