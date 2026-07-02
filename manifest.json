@@ -1,6 +1,6 @@
 {
-  "build": 103,
-  "version": "2026.07.01.103",
+  "build": 104,
+  "version": "2026.07.01.104",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "FADE now master (not group); aim card no scroll + fits; TRIGGER/FADE-TIME -> SYSTEM col; hostname label fix"
+  "notes": "Move FADE TIME to SETUP tab (SYSTEM col was scrolling + hiding RESTART); SYSTEM fits again"
 }
