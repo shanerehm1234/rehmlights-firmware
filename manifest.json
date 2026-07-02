@@ -1,6 +1,6 @@
 {
-  "build": 100,
-  "version": "2026.07.01.100",
+  "build": 101,
+  "version": "2026.07.01.101",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Edit Custom: pump repaints on slot/type highlight, name keyboard + import modal open/close (DOUBLE_DIRECT flashing/ghosting)"
+  "notes": "OPERATE rework: XY aim pad + D-pad nudge, LAMP->BEAM, BLACKOUT+FADE, fade time in SETTINGS"
 }
