@@ -1,6 +1,6 @@
 {
-  "build": 99,
-  "version": "2026.07.01.99",
+  "build": 100,
+  "version": "2026.07.01.100",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Fix Vibrary + Edit Custom half-render/disappear: missing DOUBLE_DIRECT repaint pumps on open/populate/close"
+  "notes": "Edit Custom: pump repaints on slot/type highlight, name keyboard + import modal open/close (DOUBLE_DIRECT flashing/ghosting)"
 }
