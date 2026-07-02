@@ -1,6 +1,6 @@
 {
-  "build": 104,
-  "version": "2026.07.01.104",
+  "build": 105,
+  "version": "2026.07.01.105",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Move FADE TIME to SETUP tab (SYSTEM col was scrolling + hiding RESTART); SYSTEM fits again"
+  "notes": "Build 105: web UI parity (FADE, BLACK swatch, LAMP on BEAM, fade-time); SYSTEM trimmed; fade-time slider"
 }
