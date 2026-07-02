@@ -1,6 +1,6 @@
 {
-  "build": 98,
-  "version": "2026.07.01.98",
+  "build": 99,
+  "version": "2026.07.01.99",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Restore the pretty: active-card glow + border + outline + shadows, debounced so busking stays smooth"
+  "notes": "Fix Vibrary + Edit Custom half-render/disappear: missing DOUBLE_DIRECT repaint pumps on open/populate/close"
 }
