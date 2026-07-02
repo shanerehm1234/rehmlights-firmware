@@ -1,6 +1,6 @@
 {
-  "build": 101,
-  "version": "2026.07.01.101",
+  "build": 102,
+  "version": "2026.07.01.102",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "OPERATE rework: XY aim pad + D-pad nudge, LAMP->BEAM, BLACKOUT+FADE, fade time in SETTINGS"
+  "notes": "Black-as-color pulse chase + fixes: stacked BLACKOUT/FADE, FADE trigger option, version display, fade-time reachable"
 }
