@@ -1,6 +1,6 @@
 {
-  "build": 107,
-  "version": "2026.07.02.107",
+  "build": 108,
+  "version": "2026.07.02.108",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 107: RC review fixes (open WiFi, self-heal gating, editor leak, web parity, zero warnings)"
+  "notes": "Build 108: FIX boot crash from build 107 (static TCB in PSRAM) - moved web buffers to PSRAM, freed ~19KB internal RAM"
 }
