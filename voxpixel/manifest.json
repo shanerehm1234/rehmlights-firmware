@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxpixel/voxpixel.bin",
+  "notes": "OTA now served from the public rehmlights-firmware repo (source stays private)."
+}
