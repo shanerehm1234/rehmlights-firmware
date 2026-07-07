@@ -1,6 +1,6 @@
 {
-  "build": 108,
-  "version": "2026.07.02.108",
+  "build": 109,
+  "version": "2026.07.03.109",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 108: FIX boot crash from build 107 (static TCB in PSRAM) - moved web buffers to PSRAM, freed ~19KB internal RAM"
+  "notes": "Build 109: circle motion fix - uniform aim scale keeps circles round at any aim (was squashing to a figure-8 aimed off-center)"
 }
