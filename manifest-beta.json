@@ -1,6 +1,6 @@
 {
-  "build": 111,
-  "version": "2026.07.03.111",
+  "build": 112,
+  "version": "2026.07.03.112",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Build 111 (BETA): circle motion - S3-style shift+clamp, full-size smooth circles (fixes the diamond/sharp regression)"
+  "notes": "Build 112 (BETA): 16-bit smooth pan/tilt + no more tilt-max flattening (aim center-clamp) + web Stable/Beta toggle"
 }
