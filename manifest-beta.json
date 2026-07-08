@@ -1,6 +1,6 @@
 {
-  "build": 112,
-  "version": "2026.07.03.112",
+  "build": 113,
+  "version": "2026.07.08.113",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Build 112 (BETA): 16-bit smooth pan/tilt + no more tilt-max flattening (aim center-clamp) + web Stable/Beta toggle"
+  "notes": "Build 113 (BETA): VFLOW rebrand - new wordmark splash, Flow Library, FlowLink, vflow-xxxx.local"
 }
