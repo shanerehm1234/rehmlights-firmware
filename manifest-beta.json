@@ -1,6 +1,6 @@
 {
-  "build": 110,
-  "version": "2026.07.03.110",
+  "build": 111,
+  "version": "2026.07.03.111",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Build 110: OTA update channels (Stable/Beta) - pick your channel in SETTINGS > UPDATES"
+  "notes": "Build 111 (BETA): circle motion - S3-style shift+clamp, full-size smooth circles (fixes the diamond/sharp regression)"
 }
