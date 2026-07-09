@@ -1,6 +1,6 @@
 {
-  "build": 110,
-  "version": "2026.07.03.110",
+  "build": 113,
+  "version": "2026.07.08.113",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "Build 110: OTA update channels (Stable/Beta) - pick your channel in SETTINGS > UPDATES"
+  "notes": "Build 113: VFLOW rebrand (was VIBE) - new splash, Flow Library, FlowLink, vflow-xxxx.local"
 }
