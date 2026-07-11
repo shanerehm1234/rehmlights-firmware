@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "v1.1.4: desktop web UI layout (cards flow into 2-3 columns on wide screens), fix neck sliders overflowing their card."
+  "notes": "v1.1.5: wireless controller (RP2040) updates - upload OcularVoxPro.uf2 from the Firmware card. Requires the one-time factory flash (bootloader) on the controller."
 }
