@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "v1.1.3: smooth live-mic audio - WiFi power save off (was causing 100-300ms delivery jitter), smaller/steadier stream chunks, tighter latency cap. Pair with controller v1.1.1 (bigger jitter buffer)."
+  "notes": "v1.1.4: desktop web UI layout (cards flow into 2-3 columns on wide screens), fix neck sliders overflowing their card."
 }
