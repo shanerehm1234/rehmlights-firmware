@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
+  "notes": "First OTA release: live mic puppeteering (HTTPS + WebSocket), C3 flash mode support, bridge fixes."
+}
