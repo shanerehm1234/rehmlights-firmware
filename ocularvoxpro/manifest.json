@@ -1,5 +1,9 @@
 {
-  "version": "1.1.5",
+  "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "v1.1.5: wireless controller (RP2040) updates - upload OcularVoxPro.uf2 from the Firmware card. Requires the one-time factory flash (bootloader) on the controller."
+  "notes": "One-click updates for both chips: Check for updates now offers and installs controller + network firmware together.",
+  "rpVersion": "1.2.1",
+  "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
+  "rpSize": 1363488,
+  "rpCrc32": 1975706373
 }
