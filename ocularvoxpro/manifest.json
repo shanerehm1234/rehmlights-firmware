@@ -1,9 +1,9 @@
 {
   "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Hang detector: a frozen skull now reboots itself within 5 seconds and reports which code section hung (status page, crash field).",
-  "rpVersion": "1.2.4",
+  "notes": "Diagnostic: boot log now reports why the chip reset (power/brownout vs reset pin vs watchdog) - chasing the settings-save reboot.",
+  "rpVersion": "1.2.5",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1367656,
-  "rpCrc32": 2657787113
+  "rpSize": 1367624,
+  "rpCrc32": 1519853837
 }
