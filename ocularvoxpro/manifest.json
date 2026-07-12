@@ -1,9 +1,9 @@
 {
   "version": "1.2.2",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Cap WiFi transmit power at 13dBm: full-power TX bursts stacked on SD reads were browning out the 3.3V rail (the SD-eye freeze). Negligible range cost.",
-  "rpVersion": "1.2.6",
+  "notes": "THE fix for the SD-eye crash: Core 0 stack overflow in the web eye-load path corrupted memory (random hangs/reboots). Stack doubled, big file objects moved off it.",
+  "rpVersion": "1.2.7",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1368576,
-  "rpCrc32": 3011593181
+  "rpSize": 1368048,
+  "rpCrc32": 1637852752
 }
