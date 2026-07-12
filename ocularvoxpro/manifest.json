@@ -1,9 +1,9 @@
 {
   "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "One-click updates for both chips: Check for updates now offers and installs controller + network firmware together.",
-  "rpVersion": "1.2.1",
+  "notes": "Fix crash when selecting SD-card eyes while audio plays: the SD filesystem is now locked between the two CPU cores; failed eye loads no longer switch the display to a broken eye.",
+  "rpVersion": "1.2.2",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1363488,
-  "rpCrc32": 1975706373
+  "rpSize": 1366200,
+  "rpCrc32": 927279560
 }
