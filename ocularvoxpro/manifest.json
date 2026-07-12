@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Fix crash when selecting SD-card eyes while audio plays: the SD filesystem is now locked between the two CPU cores; failed eye loads no longer switch the display to a broken eye.",
-  "rpVersion": "1.2.2",
+  "notes": "Smoother updates: skull pauses (no servo/audio chaos) with an OLED progress bar during controller updates; crash diagnostics; fixed splash screen.",
+  "rpVersion": "1.2.3",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1366200,
-  "rpCrc32": 927279560
+  "rpSize": 1367080,
+  "rpCrc32": 3051406461
 }
