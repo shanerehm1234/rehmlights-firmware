@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "THE fix for the SD-eye crash: Core 0 stack overflow in the web eye-load path corrupted memory (random hangs/reboots). Stack doubled, big file objects moved off it.",
+  "notes": "Restore full WiFi power (the 13dBm cap was chasing a disproven theory and cost 7dB of uplink); clearer message when an update fails on weak signal.",
   "rpVersion": "1.2.7",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1368048,
