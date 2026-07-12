@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Fix the freeze: the OLED and audio codec shared the I2C bus from both CPU cores with no lock - collisions wedged the codec and hung the board. Bus is now locked and self-recovers at boot.",
+  "notes": "Cap WiFi transmit power at 13dBm: full-power TX bursts stacked on SD reads were browning out the 3.3V rail (the SD-eye freeze). Negligible range cost.",
   "rpVersion": "1.2.6",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1368576,
