@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Restore full WiFi power (the 13dBm cap was chasing a disproven theory and cost 7dB of uplink); clearer message when an update fails on weak signal.",
+  "notes": "Eye library reporting \u2014 the skull now tells the Master which .eye textures are on its SD card, so your custom eyes show up in Vox Composer's eye picker instead of typing filenames.",
   "rpVersion": "1.2.7",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1368048,
