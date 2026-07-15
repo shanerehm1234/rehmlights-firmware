@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Eye library reporting \u2014 the skull now tells the Master which .eye textures are on its SD card, so your custom eyes show up in Vox Composer's eye picker instead of typing filenames.",
-  "rpVersion": "1.2.7",
+  "notes": "Eye selection + temporary override. Pick an eye per clip in Vox Composer (9 built-in + your SD-card eyes); a scheduled eye clip temporarily overrides the board's default eye for the clip's length, then reverts. Gaze is left untouched unless the clip sets a look.",
+  "rpVersion": "1.2.8",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1368048,
-  "rpCrc32": 1637852752
+  "rpSize": 1368064,
+  "rpCrc32": 4232348874
 }
