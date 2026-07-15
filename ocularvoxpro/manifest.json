@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.7",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Eye selection + temporary override. Pick an eye per clip in Vox Composer (9 built-in + your SD-card eyes); a scheduled eye clip temporarily overrides the board's default eye for the clip's length, then reverts. Gaze is left untouched unless the clip sets a look.",
+  "notes": "Audio sync: Vox Composer can push a show's audio to the skull's SD card over the LAN. Adds /api/upload (CRC-verified writes) + CORS headers so the Composer Audio Sync panel can reach the device. Builds on 1.2.5 eye selection/override.",
   "rpVersion": "1.2.8",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1368064,
