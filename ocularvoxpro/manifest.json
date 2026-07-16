@@ -1,7 +1,7 @@
 {
-  "version": "1.2.9",
+  "version": "1.2.10",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "File manager + live-preview audio support. Web UI: delete/size on the Tracks list + a Rescan button. New SD rescan + file-delete commands so audio-sync uploads show on the OLED browser without a reboot. Includes 1.2.8's upload path fix + CORS.",
+  "notes": "Exclusive-trust pairing: a paired skull obeys only its paired Vox Master; unpaired obeys anyone. Adds a 'Forget Master' button in the skull's web UI. (RP2040 controller unchanged.)",
   "rpVersion": "1.2.9",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1368968,
