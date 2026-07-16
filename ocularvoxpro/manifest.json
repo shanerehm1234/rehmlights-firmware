@@ -1,9 +1,9 @@
 {
   "version": "1.2.10",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Exclusive-trust pairing: a paired skull obeys only its paired Vox Master; unpaired obeys anyone. Adds a 'Forget Master' button in the skull's web UI. (RP2040 controller unchanged.)",
-  "rpVersion": "1.2.9",
+  "notes": "Custom SD eyes now show their filename instead of a generic label. (Controller update.)",
+  "rpVersion": "1.2.10",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1368968,
-  "rpCrc32": 3394267676
+  "rpSize": 1369032,
+  "rpCrc32": 3232008135
 }
