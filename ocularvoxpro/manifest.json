@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Audio sync fix: URL-decode the upload path so filenames with spaces/special characters land correctly (fixes the HTTP 400 on Sync). Includes 1.2.7's /api/upload endpoint + CORS.",
-  "rpVersion": "1.2.8",
+  "notes": "File manager + live-preview audio support. Web UI: delete/size on the Tracks list + a Rescan button. New SD rescan + file-delete commands so audio-sync uploads show on the OLED browser without a reboot. Includes 1.2.8's upload path fix + CORS.",
+  "rpVersion": "1.2.9",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1368064,
-  "rpCrc32": 4232348874
+  "rpSize": 1368968,
+  "rpCrc32": 3394267676
 }
