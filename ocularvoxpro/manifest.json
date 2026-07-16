@@ -1,7 +1,7 @@
 {
-  "version": "1.2.10",
+  "version": "1.2.11",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Custom SD eyes now show their filename instead of a generic label. (Controller update.)",
+  "notes": "Reports its SD audio library (not just eyes) to the Master, split across frames so nothing is truncated.",
   "rpVersion": "1.2.10",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1369032,
