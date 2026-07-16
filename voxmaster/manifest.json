@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "External plugins (install by URL), OSC/MQTT plugin relays, and typed device inventory (see which eyes + audio each skull has)."
+  "notes": "Fixes two web routes (/log, /dmx) that could fail to register. Recommended update."
 }
