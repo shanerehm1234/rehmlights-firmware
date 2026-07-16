@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Audio sync: Vox Composer can push a show's audio to the skull's SD card over the LAN. Adds /api/upload (CRC-verified writes) + CORS headers so the Composer Audio Sync panel can reach the device. Builds on 1.2.5 eye selection/override.",
+  "notes": "Audio sync fix: URL-decode the upload path so filenames with spaces/special characters land correctly (fixes the HTTP 400 on Sync). Includes 1.2.7's /api/upload endpoint + CORS.",
   "rpVersion": "1.2.8",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
   "rpSize": 1368064,
