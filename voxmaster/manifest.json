@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
+  "notes": "Adds over-the-air updates. From here on, update the Master from its Setup tab."
+}
