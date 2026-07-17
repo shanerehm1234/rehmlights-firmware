@@ -1,5 +1,5 @@
 {
-  "version": "1.1.15",
+  "version": "1.1.16",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "OTA download now fully quiets the radio (MIN_MODEM + disconnect for install), matching VIBE."
+  "notes": "Over-the-air update verification."
 }
