@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "Fixes OTA crashing/rolling back: the download is now paced so the WiFi co-processor's buffers can't be exhausted mid-write."
+  "notes": "Shows live download % while updating. (Test build for the paced-OTA fix.)"
 }
