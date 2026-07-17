@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "OTA now blanks the screen + freezes the UI during the flash write and holds off the reboot guards, so updates stop rolling back."
+  "notes": "Quiets a harmless favicon log warning. (First fully over-the-air update \u2014 no USB needed.)"
 }
