@@ -1,5 +1,5 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.13",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "Moves large network/TLS buffers to PSRAM to free internal memory for OTA (keeps normal WiFi intact)."
+  "notes": "Over-the-air 'Check for updates' now works (pauses Vox-Link during the download, like VIBE on the same hardware)."
 }
