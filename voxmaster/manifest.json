@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "Confirms over-the-air updates work end to end."
+  "notes": "Frees internal memory (WiFi/TLS buffers to PSRAM) so OTA downloads don't run the chip out of RAM."
 }
