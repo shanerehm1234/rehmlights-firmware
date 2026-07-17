@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "Adds a Vox gear favicon to the web UI (and quiets the favicon log warning). First fully over-the-air update."
+  "notes": "Fixes OTA crashing/rolling back: the download is now paced so the WiFi co-processor's buffers can't be exhausted mid-write."
 }
