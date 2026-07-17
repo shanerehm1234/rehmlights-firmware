@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/voxmaster/voxmaster.bin",
-  "notes": "Shows live download % while updating. (Test build for the paced-OTA fix.)"
+  "notes": "OTA now downloads to RAM first, then writes flash with WiFi idle \u2014 fixes the crash from doing both at once."
 }
