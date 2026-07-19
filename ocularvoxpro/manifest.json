@@ -1,9 +1,9 @@
 {
   "version": "1.2.11",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Reports its SD audio library (not just eyes) to the Master, split across frames so nothing is truncated.",
-  "rpVersion": "1.2.10",
+  "notes": "Animated GIF eyes! Drop a .gif (up to 232x232) in the SD /eyes/ folder \u2014 or push one from Vox Composer \u2014 and select it like any other eye. Flame, sparkle, portal and more.",
+  "rpVersion": "1.2.13",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1369032,
-  "rpCrc32": 3232008135
+  "rpSize": 1374672,
+  "rpCrc32": 979613923
 }
