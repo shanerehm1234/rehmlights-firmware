@@ -1,9 +1,9 @@
 {
   "version": "1.2.11",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_net.bin",
-  "notes": "Animated GIF eyes (up to 232x232) + colored eyelids now fill the whole display. Drop a .gif in the SD /eyes/ folder or push one from Vox Composer.",
-  "rpVersion": "1.2.14",
+  "notes": "Animated GIF eyes (up to 232x232). Holds up to 32 eyes total; the eye menu is now sorted A-Z.",
+  "rpVersion": "1.2.15",
   "rpUrl": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/ocularvoxpro/ovp_app.bin",
-  "rpSize": 1374576,
-  "rpCrc32": 4045711636
+  "rpSize": 1374600,
+  "rpCrc32": 2472136435
 }
