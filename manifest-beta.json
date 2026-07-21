@@ -1,6 +1,6 @@
 {
-  "build": 114,
-  "version": "2026.07.11.114",
+  "build": 115,
+  "version": "2026.07.20.115",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Build 114 (beta): tab order (OPERATE/COLOR/BEAM/SCENES together, SETUP moved next to SETTINGS) + fixed the 2 chronically-scrolling cards (pattern picker, system/updates)"
+  "notes": "SETUP redesign: ADD-to-patch flow + live patch list. Web patch mgmt (model picker, re-address, reorder). Fade moved to OPERATE."
 }
