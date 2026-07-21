@@ -1,6 +1,6 @@
 {
-  "build": 115,
-  "version": "2026.07.20.115",
+  "build": 116,
+  "version": "2026.07.21.116",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "SETUP redesign: ADD-to-patch flow + live patch list. Web patch mgmt (model picker, re-address, reorder). Fade moved to OPERATE."
+  "notes": "Web UI now matches the display: tab order (COLOR/BEAM before SETUP), DIMMER grouped with Motion, FADE TIME under the FADE button."
 }
