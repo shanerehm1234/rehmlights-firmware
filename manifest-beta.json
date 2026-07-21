@@ -1,6 +1,6 @@
 {
-  "build": 118,
-  "version": "2026.07.21.118",
+  "build": 119,
+  "version": "2026.07.21.119",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Custom profile editor overhaul (tap-to-type keypad). Web now has full library browse/download, custom profile creator, and restart/factory-reset - full device parity."
+  "notes": "Web profile creator now includes colour-wheel values, gobo slots, and shutter/dimmer/strobe/lamp values - full parity with the device editor."
 }
