@@ -1,6 +1,6 @@
 {
-  "build": 117,
-  "version": "2026.07.21.117",
+  "build": 118,
+  "version": "2026.07.21.118",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "QA pass: docs refreshed, dead-code cleanup, warning-free build. Wizard text fix. No behavior change to controls."
+  "notes": "Custom profile editor overhaul (tap-to-type keypad). Web now has full library browse/download, custom profile creator, and restart/factory-reset - full device parity."
 }
