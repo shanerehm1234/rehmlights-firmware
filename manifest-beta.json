@@ -1,6 +1,6 @@
 {
-  "build": 121,
-  "version": "2026.07.21.121",
+  "build": 122,
+  "version": "2026.07.21.122",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Custom editor auto-selects your new profile after save; faster fixture delete; fixed SETTINGS/SETUP tab flash."
+  "notes": "Web library/custom screens as cards; web AUTO-ADDRESS; scene double-tap rename; slider knobs fixed; MUCH faster patch manager with many fixtures."
 }
