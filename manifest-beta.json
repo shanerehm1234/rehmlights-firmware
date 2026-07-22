@@ -1,6 +1,6 @@
 {
-  "build": 123,
-  "version": "2026.07.21.123",
+  "build": 124,
+  "version": "2026.07.22.124",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fixed the last two slider knobs (RGB colour sliders + settings brightness)."
+  "notes": "Fix web custom-profile save: names with spaces now save correctly, new profile auto-selects, no more silent overwrite, 8 custom slots."
 }
