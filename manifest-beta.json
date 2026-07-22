@@ -1,6 +1,6 @@
 {
-  "build": 119,
-  "version": "2026.07.21.119",
+  "build": 120,
+  "version": "2026.07.21.120",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Web profile creator now includes colour-wheel values, gobo slots, and shutter/dimmer/strobe/lamp values - full parity with the device editor."
+  "notes": "UI polish (glyphs, COLOR labels, BEAM two-column, fade-time fit, blackout ring) + patch screen touch responsiveness fix."
 }
