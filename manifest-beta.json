@@ -1,6 +1,6 @@
 {
-  "build": 124,
-  "version": "2026.07.22.124",
+  "build": 125,
+  "version": "2026.07.22.125",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix web custom-profile save: names with spaces now save correctly, new profile auto-selects, no more silent overwrite, 8 custom slots."
+  "notes": "SETTINGS FlowLink card layout fix + you can now delete custom profiles from the web (Delete button on SETUP when CUSTOM is selected)."
 }
