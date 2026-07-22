@@ -1,6 +1,6 @@
 {
-  "build": 120,
-  "version": "2026.07.21.120",
+  "build": 121,
+  "version": "2026.07.21.121",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "UI polish (glyphs, COLOR labels, BEAM two-column, fade-time fit, blackout ring) + patch screen touch responsiveness fix."
+  "notes": "Custom editor auto-selects your new profile after save; faster fixture delete; fixed SETTINGS/SETUP tab flash."
 }
