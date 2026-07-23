@@ -1,6 +1,6 @@
 {
-  "build": 130,
-  "version": "2026.07.22.130",
+  "build": 131,
+  "version": "2026.07.22.131",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix custom-editor slot tabs overflowing with 8 slots (found via the new device screenshot)."
+  "notes": "Patch Manager live-refresh on web edits"
 }
