@@ -1,6 +1,6 @@
 {
-  "build": 131,
-  "version": "2026.07.22.131",
+  "build": 132,
+  "version": "2026.07.22.132",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Patch Manager live-refresh on web edits"
+  "notes": "Patch tile long names now ellipsize"
 }
