@@ -1,6 +1,6 @@
 {
-  "build": 128,
-  "version": "2026.07.22.128",
+  "build": 129,
+  "version": "2026.07.22.129",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "New: /api/screenshot captures the device screen live (for visual QA)."
+  "notes": "Remote UI navigation for screenshot QA (nav intent)."
 }
