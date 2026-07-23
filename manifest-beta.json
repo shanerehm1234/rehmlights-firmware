@@ -1,6 +1,6 @@
 {
-  "build": 127,
-  "version": "2026.07.22.127",
+  "build": 128,
+  "version": "2026.07.22.128",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Custom profiles: gobo rotation channel, up to 12 gobo slots, separate strobe channel, and longer names (no more truncation). Gobo wheel now works on custom fixtures."
+  "notes": "New: /api/screenshot captures the device screen live (for visual QA)."
 }
