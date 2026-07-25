@@ -1,6 +1,6 @@
 {
-  "build": 136,
-  "version": "2026.07.24.136",
+  "build": 137,
+  "version": "2026.07.24.137",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "EFFECTS web API"
+  "notes": "DMX diagnostic endpoint"
 }
