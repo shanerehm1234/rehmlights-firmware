@@ -1,6 +1,6 @@
 {
-  "build": 144,
-  "version": "2026.07.25.144",
+  "build": 145,
+  "version": "2026.07.25.145",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "FX editor polish"
+  "notes": "Trigger jack fires effects"
 }
