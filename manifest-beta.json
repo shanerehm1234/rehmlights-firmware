@@ -1,6 +1,6 @@
 {
-  "build": 146,
-  "version": "2026.07.25.146",
+  "build": 147,
+  "version": "2026.07.25.147",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Trigger picker fits again"
+  "notes": "MOMENTARY wording + trigger status"
 }
