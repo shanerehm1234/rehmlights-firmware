@@ -1,6 +1,6 @@
 {
-  "build": 135,
-  "version": "2026.07.24.135",
+  "build": 136,
+  "version": "2026.07.24.136",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "FX builder nav hooks"
+  "notes": "EFFECTS web API"
 }
