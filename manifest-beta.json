@@ -1,6 +1,6 @@
 {
-  "build": 138,
-  "version": "2026.07.24.138",
+  "build": 139,
+  "version": "2026.07.24.139",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "EFFECTS on phone + button fix"
+  "notes": "Web FX builder + fire button fixes"
 }
