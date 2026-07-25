@@ -1,6 +1,6 @@
 {
-  "build": 147,
-  "version": "2026.07.25.147",
+  "build": 148,
+  "version": "2026.07.25.148",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "MOMENTARY wording + trigger status"
+  "notes": "FX list label fit"
 }
