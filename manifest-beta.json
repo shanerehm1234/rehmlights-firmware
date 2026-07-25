@@ -1,6 +1,6 @@
 {
-  "build": 143,
-  "version": "2026.07.25.143",
+  "build": 144,
+  "version": "2026.07.25.144",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Safer delete in FX builder"
+  "notes": "FX editor polish"
 }
