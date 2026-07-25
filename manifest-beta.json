@@ -1,6 +1,6 @@
 {
-  "build": 149,
-  "version": "2026.07.25.149",
+  "build": 150,
+  "version": "2026.07.25.150",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Cold spark support"
+  "notes": "Arm label fit"
 }
