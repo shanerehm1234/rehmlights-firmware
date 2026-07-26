@@ -1,6 +1,6 @@
 {
-  "build": 151,
-  "version": "2026.07.25.151",
+  "build": 152,
+  "version": "2026.07.25.152",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Web arm state refresh"
+  "notes": "Flow-Link effects sync"
 }
