@@ -1,6 +1,6 @@
 {
-  "build": 155,
-  "version": "2026.07.25.155",
+  "build": 156,
+  "version": "2026.07.26.156",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix OS2L socket leak"
+  "notes": "Memory: buffers to PSRAM"
 }
