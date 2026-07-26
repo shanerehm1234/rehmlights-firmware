@@ -1,6 +1,6 @@
 {
-  "build": 154,
-  "version": "2026.07.25.154",
+  "build": 155,
+  "version": "2026.07.25.155",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "OS2L - Virtual DJ support"
+  "notes": "Fix OS2L socket leak"
 }
