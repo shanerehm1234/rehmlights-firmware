@@ -1,6 +1,6 @@
 {
-  "build": 162,
-  "version": "2026.07.26.162",
+  "build": 164,
+  "version": "2026.07.26.164",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix boot loop + OS2L verified"
+  "notes": "Safety channel + FX fixes"
 }
