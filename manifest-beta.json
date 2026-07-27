@@ -1,6 +1,6 @@
 {
-  "build": 171,
-  "version": "2026.07.26.171",
+  "build": 178,
+  "version": "2026.07.26.178",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Device-level Flow-Link + pyro verified"
+  "notes": "Beam/color refresh on patch change; OS2L blackout fix; UI desync fixes"
 }
