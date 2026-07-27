@@ -1,6 +1,6 @@
 {
-  "build": 165,
-  "version": "2026.07.26.165",
+  "build": 166,
+  "version": "2026.07.26.166",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "FX setup UX + safety channel fixes"
+  "notes": "Safety channel ownership + web fixes"
 }
