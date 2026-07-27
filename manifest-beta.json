@@ -1,6 +1,6 @@
 {
-  "build": 168,
-  "version": "2026.07.26.168",
+  "build": 171,
+  "version": "2026.07.26.171",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Follower smoothness + FX setup UX"
+  "notes": "Device-level Flow-Link + pyro verified"
 }
