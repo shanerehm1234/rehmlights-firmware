@@ -1,6 +1,6 @@
 {
-  "build": 178,
-  "version": "2026.07.26.178",
+  "build": 185,
+  "version": "2026.08.09.185",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Beam/color refresh on patch change; OS2L blackout fix; UI desync fixes"
+  "notes": "Requires the new IO board - DMX will not output on older units. Adds SD card, AUTO SCENE, trigger hold-scene, gobo/prism rotate."
 }
