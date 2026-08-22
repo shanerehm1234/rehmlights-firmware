@@ -1,6 +1,6 @@
 {
-  "build": 186,
-  "version": "2026.08.21.186",
+  "build": 187,
+  "version": "2026.08.21.187",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Diagnostic build: adds DMX wire-timing counters at /api/dmx. No timing or behaviour changes vs 185."
+  "notes": "Diagnostic: /api/dmx?mode=1 switches DMX break to hardware timing. Default unchanged from 185."
 }
