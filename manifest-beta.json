@@ -1,6 +1,6 @@
 {
-  "build": 187,
-  "version": "2026.08.21.187",
+  "build": 188,
+  "version": "2026.08.21.188",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Diagnostic: /api/dmx?mode=1 switches DMX break to hardware timing. Default unchanged from 185."
+  "notes": "DMX timing fix: eliminates the short-break glitch that caused occasional fixture stutter. Requires the new IO board."
 }
