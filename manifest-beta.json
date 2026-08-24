@@ -1,6 +1,6 @@
 {
-  "build": 188,
-  "version": "2026.08.21.188",
+  "build": 189,
+  "version": "2026.08.23.189",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "DMX timing fix: eliminates the short-break glitch that caused occasional fixture stutter. Requires the new IO board."
+  "notes": "v1.3 - trigger no longer fires when a plug is inserted or pulled; faster press response."
 }
