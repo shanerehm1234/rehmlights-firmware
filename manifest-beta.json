@@ -1,6 +1,6 @@
 {
-  "build": 194,
-  "version": "2026.08.23.194",
+  "build": 197,
+  "version": "2026.08.23.197",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "RDM queries + autopatch. OTA download timeout raised 20s to 90s for slow links."
+  "notes": "RDM autopatch with device selection, personality switching."
 }
