@@ -1,6 +1,6 @@
 {
-  "build": 205,
-  "version": "2026.08.24.205",
+  "build": 206,
+  "version": "2026.08.24.206",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "USB MIDI host: USB-A port control and message capture at /api/midi."
+  "notes": "USB MIDI host, started on demand. /api/midi?port=1"
 }
