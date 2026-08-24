@@ -1,6 +1,6 @@
 {
-  "build": 204,
-  "version": "2026.08.24.204",
+  "build": 205,
+  "version": "2026.08.24.205",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Rebrand handling: pick the real fixture once, VFLOW remembers it by RDM identity."
+  "notes": "USB MIDI host: USB-A port control and message capture at /api/midi."
 }
