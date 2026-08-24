@@ -1,6 +1,6 @@
 {
-  "build": 201,
-  "version": "2026.08.23.201",
+  "build": 202,
+  "version": "2026.08.23.202",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "FIND FIXTURES screen: readable labels."
+  "notes": "Fixture detail: BACK button, Flow Library match, ADD TO PATCH at the RDM address."
 }
