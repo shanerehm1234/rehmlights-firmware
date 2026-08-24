@@ -1,6 +1,6 @@
 {
-  "build": 200,
-  "version": "2026.08.23.200",
+  "build": 201,
+  "version": "2026.08.23.201",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "FIND FIXTURES screen on SETUP: scan, list, details, identify, patch."
+  "notes": "FIND FIXTURES screen: readable labels."
 }
