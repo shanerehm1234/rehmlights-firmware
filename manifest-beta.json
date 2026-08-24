@@ -1,6 +1,6 @@
 {
-  "build": 192,
-  "version": "2026.08.23.192",
+  "build": 193,
+  "version": "2026.08.23.193",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "RDM discovery fix: checksum is over the encoded UID bytes. Devices now resolve."
+  "notes": "RDM device queries: model, manufacturer, address, footprint, personality."
 }
