@@ -1,6 +1,6 @@
 {
-  "build": 190,
-  "version": "2026.08.23.190",
+  "build": 191,
+  "version": "2026.08.23.191",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "RDM phase 1: half-duplex transport + /api/rdm probe. No UI yet."
+  "notes": "RDM discovery: binary search over the UID space. /api/rdm?discover=1"
 }
