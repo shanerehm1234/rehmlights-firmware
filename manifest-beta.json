@@ -1,6 +1,6 @@
 {
-  "build": 197,
-  "version": "2026.08.23.197",
+  "build": 198,
+  "version": "2026.08.23.198",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "RDM autopatch with device selection, personality switching."
+  "notes": "Autopatch now routes around fixtures it is not patching."
 }
