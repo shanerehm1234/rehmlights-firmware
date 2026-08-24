@@ -1,6 +1,6 @@
 {
-  "build": 203,
-  "version": "2026.08.24.203",
+  "build": 204,
+  "version": "2026.08.24.204",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Expose RDM model_id."
+  "notes": "Rebrand handling: pick the real fixture once, VFLOW remembers it by RDM identity."
 }
