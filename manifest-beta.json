@@ -1,6 +1,6 @@
 {
-  "build": 212,
-  "version": "2026.08.25.212",
+  "build": 213,
+  "version": "2026.08.25.213",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "MIDI settings layout fix."
+  "notes": "MIDI learn + mapping editor; SETTINGS rebalanced."
 }
