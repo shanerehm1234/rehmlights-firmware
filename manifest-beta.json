@@ -1,6 +1,6 @@
 {
-  "build": 215,
-  "version": "2026.08.25.215",
+  "build": 216,
+  "version": "2026.08.25.216",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Reads its own 5V rail: shown in SETTINGS and /sysinfo, warns below USB spec."
+  "notes": "Web scene long-press to save (matches the device). IDF patch build guard."
 }
