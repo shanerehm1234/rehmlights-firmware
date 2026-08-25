@@ -1,6 +1,6 @@
 {
-  "build": 214,
-  "version": "2026.08.25.214",
+  "build": 215,
+  "version": "2026.08.25.215",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Web UI: MIDI status, RDM fixture scan, HOLD SCENE trigger option."
+  "notes": "Reads its own 5V rail: shown in SETTINGS and /sysinfo, warns below USB spec."
 }
