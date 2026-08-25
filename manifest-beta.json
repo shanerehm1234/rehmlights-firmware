@@ -1,6 +1,6 @@
 {
-  "build": 216,
-  "version": "2026.08.25.216",
+  "build": 217,
+  "version": "2026.08.25.217",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Web scene long-press to save (matches the device). IDF patch build guard."
+  "notes": "DMX task above the web server: phone use no longer jitters the output."
 }
