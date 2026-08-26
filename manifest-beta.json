@@ -1,6 +1,6 @@
 {
-  "build": 233,
-  "version": "2026.08.25.233",
+  "build": 234,
+  "version": "2026.08.25.234",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix reboot when toggling MIDI; knobs cover full range."
+  "notes": "MIDI toggle teardown order; reset reason in sysinfo."
 }
