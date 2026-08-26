@@ -1,6 +1,6 @@
 {
-  "build": 219,
-  "version": "2026.08.25.219",
+  "build": 220,
+  "version": "2026.08.25.220",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "FlowLink: follower locks to one leader, warns on a second. MIDI text legible."
+  "notes": "Scene recall keeps its highlight; MIDI mapping crash + MPD218 knob CCs."
 }
