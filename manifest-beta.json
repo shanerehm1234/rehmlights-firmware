@@ -1,6 +1,6 @@
 {
-  "build": 221,
-  "version": "2026.08.25.221",
+  "build": 222,
+  "version": "2026.08.25.222",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Diagnostic build: scene divergence counters."
+  "notes": "Diagnostic: capture the divergence caller."
 }
