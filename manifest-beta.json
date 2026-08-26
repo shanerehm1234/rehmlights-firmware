@@ -1,6 +1,6 @@
 {
-  "build": 220,
-  "version": "2026.08.25.220",
+  "build": 221,
+  "version": "2026.08.25.221",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Scene recall keeps its highlight; MIDI mapping crash + MPD218 knob CCs."
+  "notes": "Diagnostic build: scene divergence counters."
 }
