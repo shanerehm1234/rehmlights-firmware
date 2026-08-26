@@ -1,6 +1,6 @@
 {
-  "build": 226,
-  "version": "2026.08.25.226",
+  "build": 227,
+  "version": "2026.08.25.227",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "AUTO SCENE and channel changes no longer clear the scene highlight."
+  "notes": "AUTO SCENE settings keep the scene highlight."
 }
