@@ -1,6 +1,6 @@
 {
-  "build": 225,
-  "version": "2026.08.25.225",
+  "build": 226,
+  "version": "2026.08.25.226",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Compact Wi-Fi buttons; SD card shown in SETTINGS."
+  "notes": "AUTO SCENE and channel changes no longer clear the scene highlight."
 }
