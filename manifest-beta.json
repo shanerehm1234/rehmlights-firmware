@@ -1,6 +1,6 @@
 {
-  "build": 230,
-  "version": "2026.08.25.230",
+  "build": 231,
+  "version": "2026.08.25.231",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Update-channel change keeps the scene highlight."
+  "notes": "MIDI knob soft takeover; SETTINGS reshuffle; web server hardening."
 }
