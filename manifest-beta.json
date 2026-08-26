@@ -1,6 +1,6 @@
 {
-  "build": 218,
-  "version": "2026.08.25.218",
+  "build": 219,
+  "version": "2026.08.25.219",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "MIDI: works with any controller - CC-based pads, correct alt setting."
+  "notes": "FlowLink: follower locks to one leader, warns on a second. MIDI text legible."
 }
