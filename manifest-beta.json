@@ -1,6 +1,6 @@
 {
-  "build": 236,
-  "version": "2026.08.25.236",
+  "build": 237,
+  "version": "2026.08.26.237",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Show a panel tab from the web."
+  "notes": "SD flight recorder; RSSI and Wi-Fi disconnect logging."
 }
