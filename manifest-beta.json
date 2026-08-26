@@ -1,6 +1,6 @@
 {
-  "build": 227,
-  "version": "2026.08.25.227",
+  "build": 228,
+  "version": "2026.08.25.228",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "AUTO SCENE settings keep the scene highlight."
+  "notes": "Diagnostic build."
 }
