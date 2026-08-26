@@ -1,6 +1,6 @@
 {
-  "build": 231,
-  "version": "2026.08.25.231",
+  "build": 232,
+  "version": "2026.08.25.232",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "MIDI knob soft takeover; SETTINGS reshuffle; web server hardening."
+  "notes": "Fix dead web UI JS; relative MIDI knobs; SETTINGS polish."
 }
