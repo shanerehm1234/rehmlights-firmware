@@ -1,6 +1,6 @@
 {
-  "build": 235,
-  "version": "2026.08.25.235",
+  "build": 236,
+  "version": "2026.08.25.236",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Web MIDI switch now enables MIDI, not just port power."
+  "notes": "Show a panel tab from the web."
 }
