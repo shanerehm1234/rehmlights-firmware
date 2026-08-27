@@ -1,6 +1,6 @@
 {
-  "build": 239,
-  "version": "2026.08.26.239",
+  "build": 240,
+  "version": "2026.08.26.240",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "MIDI knobs: speed-scaled gain so they cover the full range."
+  "notes": "DMX channel dump was shadowed by the diagnostics route."
 }
