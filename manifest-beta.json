@@ -1,6 +1,6 @@
 {
-  "build": 238,
-  "version": "2026.08.26.238",
+  "build": 239,
+  "version": "2026.08.26.239",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Screen no longer says a disabled MIDI controller is live."
+  "notes": "MIDI knobs: speed-scaled gain so they cover the full range."
 }
