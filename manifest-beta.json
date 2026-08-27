@@ -1,6 +1,6 @@
 {
-  "build": 242,
-  "version": "2026.08.27.242",
+  "build": 243,
+  "version": "2026.08.27.243",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "SETUP screen: numbered flow and clearer first-run guidance."
+  "notes": "SETUP wording: plain language over desk jargon."
 }
