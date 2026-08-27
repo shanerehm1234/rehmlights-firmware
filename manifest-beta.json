@@ -1,6 +1,6 @@
 {
-  "build": 240,
-  "version": "2026.08.26.240",
+  "build": 241,
+  "version": "2026.08.27.241",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "DMX channel dump was shadowed by the diagnostics route."
+  "notes": "An emptied patch stays empty instead of repopulating."
 }
