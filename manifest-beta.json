@@ -1,6 +1,6 @@
 {
-  "build": 241,
-  "version": "2026.08.27.241",
+  "build": 242,
+  "version": "2026.08.27.242",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "An emptied patch stays empty instead of repopulating."
+  "notes": "SETUP screen: numbered flow and clearer first-run guidance."
 }
