@@ -1,6 +1,6 @@
 {
-  "build": 248,
-  "version": "2026.08.30.248",
+  "build": 249,
+  "version": "2026.08.30.249",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Motion no longer slows down when you change screens."
+  "notes": "Stalls are repaid gradually, so motion no longer jumps."
 }
