@@ -1,6 +1,6 @@
 {
-  "build": 246,
-  "version": "2026.08.30.246",
+  "build": 247,
+  "version": "2026.08.30.247",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "AUTO-ADDRESS anchors on fixture 1, and asks first."
+  "notes": "EFFECTS: fade stops effects, bigger warnings, visible scrollbars."
 }
