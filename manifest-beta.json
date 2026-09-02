@@ -1,6 +1,6 @@
 {
-  "build": 252,
-  "version": "2026.09.01.252",
+  "build": 253,
+  "version": "2026.09.02.253",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Datalog waits for subsystems before its first sample."
+  "notes": "Fix boot panic: no Wi-Fi RPC before the transport is up."
 }
