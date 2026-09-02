@@ -1,6 +1,6 @@
 {
-  "build": 250,
-  "version": "2026.09.01.250",
+  "build": 251,
+  "version": "2026.09.01.251",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Motion clock runs off the UI thread."
+  "notes": "Motion clock, crash-safe. Boot reason logged first."
 }
