@@ -1,6 +1,6 @@
 {
-  "build": 253,
-  "version": "2026.09.02.253",
+  "build": 254,
+  "version": "2026.09.02.254",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix boot panic: no Wi-Fi RPC before the transport is up."
+  "notes": "Pan/tilt reaches the engine off the UI thread."
 }
