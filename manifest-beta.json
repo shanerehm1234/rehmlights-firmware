@@ -1,6 +1,6 @@
 {
-  "build": 254,
-  "version": "2026.09.02.254",
+  "build": 255,
+  "version": "2026.09.07.255",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Pan/tilt reaches the engine off the UI thread."
+  "notes": "MIDI pan/tilt + fader mode, 5-min hold scene."
 }
