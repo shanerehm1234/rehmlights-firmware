@@ -1,6 +1,6 @@
 {
-  "build": 256,
-  "version": "2026.09.07.256",
+  "build": 257,
+  "version": "2026.09.08.257",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "8 effect presets, wider SETTINGS section rules."
+  "notes": "Held fire stops on release; restart confirms; button contrast."
 }
