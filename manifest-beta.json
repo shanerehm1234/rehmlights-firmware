@@ -1,6 +1,6 @@
 {
-  "build": 259,
-  "version": "2026.09.11.259",
+  "build": 260,
+  "version": "2026.09.11.260",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "MIDI action picker; BEAM zoom/focus/iris/frost/prism on knobs."
+  "notes": "Fix MIDI Pan/Tilt resync race (couldn't reach full range)."
 }
