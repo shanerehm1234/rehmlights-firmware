@@ -1,6 +1,6 @@
 {
-  "build": 260,
-  "version": "2026.09.11.260",
+  "build": 261,
+  "version": "2026.09.11.261",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix MIDI Pan/Tilt resync race (couldn't reach full range)."
+  "notes": "SETUP panel reorder (Flow Library first); dropped qty stepper."
 }
