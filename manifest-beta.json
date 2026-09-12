@@ -1,6 +1,6 @@
 {
-  "build": 258,
-  "version": "2026.09.08.258",
+  "build": 259,
+  "version": "2026.09.11.259",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Follower FX KILL stays killed; link status no longer bounces."
+  "notes": "MIDI action picker; BEAM zoom/focus/iris/frost/prism on knobs."
 }
