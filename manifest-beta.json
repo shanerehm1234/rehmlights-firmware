@@ -1,6 +1,6 @@
 {
-  "build": 277,
-  "version": "2026.09.13.277",
+  "build": 278,
+  "version": "2026.09.13.278",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "TEST build 277 - WiFi liveness probe bench test, not for general use"
+  "notes": "TEST build 278 - WiFi liveness escalation bench test, not for general use"
 }
