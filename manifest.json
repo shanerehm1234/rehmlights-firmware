@@ -1,6 +1,6 @@
 {
-  "build": 286,
-  "version": "2026.09.13.286",
+  "build": 287,
+  "version": "2026.09.13.287",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "VFLOW 1.4 - RDM auto-patch, MIDI mapping, FX presets, WiFi self-recovery, reliable updates on large rigs"
+  "notes": "VFLOW 1.4 - settings network panel fix, reliable updates on large rigs"
 }
