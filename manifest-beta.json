@@ -2,5 +2,5 @@
   "build": 275,
   "version": "2026.09.13.275",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix 3 more real concurrency findings from pre-ship rescan: datalog rotation lock, pending-flag ordering, MIDI knob lock (build 275)"
+  "notes": "v1.4 — RDM, MIDI/EFFECTS/SETUP overhaul, concurrency hardening. Verified via 9-hour 4-unit overnight endurance run."
 }
