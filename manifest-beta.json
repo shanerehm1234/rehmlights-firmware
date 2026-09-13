@@ -1,6 +1,6 @@
 {
-  "build": 272,
-  "version": "2026.09.13.272",
+  "build": 273,
+  "version": "2026.09.13.273",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Factory reset now also wipes the downloaded fixture library, not just the patch (build 272)"
+  "notes": "Fix the lv_async_call cross-thread race that likely caused tonight's panic (build 273)"
 }
