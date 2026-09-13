@@ -1,6 +1,6 @@
 {
-  "build": 276,
-  "version": "2026.09.13.276",
+  "build": 279,
+  "version": "2026.09.13.279",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4.bin",
-  "notes": "v1.4 (corrected) - fixes real-hardware pan/tilt shaking found in the initial build 275 release"
+  "notes": "VFLOW 1.4 - RDM auto-patch, MIDI mapping, FX presets, pan/tilt shake fix, WiFi self-recovery"
 }

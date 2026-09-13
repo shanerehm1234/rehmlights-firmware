@@ -1,6 +1,6 @@
 {
-  "build": 278,
-  "version": "2026.09.13.278",
+  "build": 279,
+  "version": "2026.09.13.279",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "TEST build 278 - WiFi liveness escalation bench test, not for general use"
+  "notes": "VFLOW 1.4 - RDM auto-patch, MIDI mapping, FX presets, pan/tilt shake fix, WiFi self-recovery"
 }
