@@ -1,6 +1,6 @@
 {
-  "build": 284,
-  "version": "2026.09.13.284",
+  "build": 285,
+  "version": "2026.09.13.285",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "TEST build 284 - WiFi driver RX buffer in PSRAM, OTA bench test, not for general use"
+  "notes": "TEST build 285 - WiFi driver RX buffer in PSRAM, OTA repeat test, not for general use"
 }
