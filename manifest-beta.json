@@ -2,5 +2,5 @@
   "build": 276,
   "version": "2026.09.13.276",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix real-hardware pan/tilt shaking - two unsynchronized pan/tilt writers racing since build 275 (build 276)"
+  "notes": "v1.4 (corrected) — fixes real-hardware pan/tilt shaking found in the initial build 275 release"
 }
