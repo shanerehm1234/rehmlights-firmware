@@ -1,6 +1,6 @@
 {
-  "build": 276,
-  "version": "2026.09.13.276",
+  "build": 277,
+  "version": "2026.09.13.277",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "v1.4 (corrected) - fixes real-hardware pan/tilt shaking found in the initial build 275 release"
+  "notes": "TEST build 277 - WiFi liveness probe bench test, not for general use"
 }
