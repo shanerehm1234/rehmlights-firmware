@@ -1,6 +1,6 @@
 {
-  "build": 274,
-  "version": "2026.09.13.274",
+  "build": 275,
+  "version": "2026.09.13.275",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix inverted bsp_display_lock return value that broke web intents in build 273 (build 274)"
+  "notes": "Fix 3 more real concurrency findings from pre-ship rescan: datalog rotation lock, pending-flag ordering, MIDI knob lock (build 275)"
 }
