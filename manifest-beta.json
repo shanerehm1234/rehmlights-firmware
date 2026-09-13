@@ -1,6 +1,6 @@
 {
-  "build": 275,
-  "version": "2026.09.13.275",
+  "build": 276,
+  "version": "2026.09.13.276",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "v1.4 — RDM, MIDI/EFFECTS/SETUP overhaul, concurrency hardening. Verified via 9-hour 4-unit overnight endurance run."
+  "notes": "Fix real-hardware pan/tilt shaking - two unsynchronized pan/tilt writers racing since build 275 (build 276)"
 }
