@@ -1,6 +1,6 @@
 {
-  "build": 271,
-  "version": "2026.09.13.271",
+  "build": 272,
+  "version": "2026.09.13.272",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Bound the datalog mutex wait so a slow SD card can't wedge the web server (build 271)"
+  "notes": "Factory reset now also wipes the downloaded fixture library, not just the patch (build 272)"
 }
