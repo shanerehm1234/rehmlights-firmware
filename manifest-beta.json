@@ -1,6 +1,6 @@
 {
-  "build": 265,
-  "version": "2026.09.12.265",
+  "build": 266,
+  "version": "2026.09.12.266",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Remote diagnostic for the factory-reset patch bug."
+  "notes": "TESTING: restructure vibe_settings_load so patch loading always runs."
 }
