@@ -1,6 +1,6 @@
 {
-  "build": 273,
-  "version": "2026.09.13.273",
+  "build": 274,
+  "version": "2026.09.13.274",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix the lv_async_call cross-thread race that likely caused tonight's panic (build 273)"
+  "notes": "Fix inverted bsp_display_lock return value that broke web intents in build 273 (build 274)"
 }
