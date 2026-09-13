@@ -1,6 +1,6 @@
 {
-  "build": 269,
-  "version": "2026.09.12.269",
+  "build": 270,
+  "version": "2026.09.13.270",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix scene rename clobbering saved look with live look (build 269)"
+  "notes": "WANDER double-direct fix + verified concurrency/RDM/mDNS fixes from code review (build 270)"
 }
