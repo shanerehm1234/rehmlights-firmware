@@ -1,6 +1,6 @@
 {
-  "build": 270,
-  "version": "2026.09.13.270",
+  "build": 271,
+  "version": "2026.09.13.271",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "WANDER double-direct fix + verified concurrency/RDM/mDNS fixes from code review (build 270)"
+  "notes": "Bound the datalog mutex wait so a slow SD card can't wedge the web server (build 271)"
 }
