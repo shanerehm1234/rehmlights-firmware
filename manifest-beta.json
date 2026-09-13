@@ -1,6 +1,6 @@
 {
-  "build": 268,
-  "version": "2026.09.12.268",
+  "build": 269,
+  "version": "2026.09.12.269",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix orphaned RDM card on web; web group changes now reflect on device."
+  "notes": "Fix scene rename clobbering saved look with live look (build 269)"
 }
