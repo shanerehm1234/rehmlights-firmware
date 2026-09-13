@@ -1,6 +1,6 @@
 {
-  "build": 279,
-  "version": "2026.09.13.279",
+  "build": 284,
+  "version": "2026.09.13.284",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "VFLOW 1.4 - RDM auto-patch, MIDI mapping, FX presets, pan/tilt shake fix, WiFi self-recovery"
+  "notes": "TEST build 284 - WiFi driver RX buffer in PSRAM, OTA bench test, not for general use"
 }
