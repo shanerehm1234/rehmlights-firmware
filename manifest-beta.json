@@ -2,5 +2,5 @@
   "build": 266,
   "version": "2026.09.12.266",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "TESTING: restructure vibe_settings_load so patch loading always runs."
+  "notes": "Fix factory-reset patch bug for real: settings load was skipping patch/scenes/fx loading entirely."
 }
