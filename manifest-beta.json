@@ -1,6 +1,6 @@
 {
-  "build": 262,
-  "version": "2026.09.12.262",
+  "build": 263,
+  "version": "2026.09.12.263",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix factory-reset phantom patch; RDM screen readability; wheel-fixture dimmer bug."
+  "notes": "Fix factory-reset patch persistence, WiFi status, RDM address bug."
 }
