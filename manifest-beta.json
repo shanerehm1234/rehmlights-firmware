@@ -1,6 +1,6 @@
 {
-  "build": 266,
-  "version": "2026.09.12.266",
+  "build": 267,
+  "version": "2026.09.12.267",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Fix factory-reset patch bug for real: settings load was skipping patch/scenes/fx loading entirely."
+  "notes": "Fix FlowLink dead-leader safety net fighting local FX control."
 }
