@@ -1,6 +1,6 @@
 {
-  "build": 289,
-  "version": "2026.09.14.289",
+  "build": 290,
+  "version": "2026.09.15.290",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Beta test: WANDER pattern stutter fix"
+  "notes": "VFLOW 1.4 build 290: trigger stutter fixes, factory reset wait screen"
 }
