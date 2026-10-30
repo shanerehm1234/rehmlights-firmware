@@ -1,6 +1,6 @@
 {
-  "build": 296,
-  "version": "2026.10.29.296",
+  "build": 297,
+  "version": "2026.10.30.297",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "Crash breadcrumbs without tick hook (bench build)"
+  "notes": "Crash breadcrumbs plus AP/channel logging (bench build)"
 }
