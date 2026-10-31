@@ -1,6 +1,6 @@
 {
-  "build": 298,
-  "version": "2026.10.31.298",
+  "build": 299,
+  "version": "2026.10.31.299",
   "url": "https://raw.githubusercontent.com/shanerehm1234/rehmlights-firmware/main/vibe_p4-beta.bin",
-  "notes": "WiFi restart recovery, C6 firmware and recovery logging (bench build)"
+  "notes": "WiFi-restart recovery switched off, test route removed, AP/channel and C6 logging kept (bench build)"
 }
